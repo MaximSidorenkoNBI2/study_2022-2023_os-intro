@@ -371,7 +371,7 @@ hello.txt ? hello.txt % status removed: hello.txt src/ src/simple.c unknown: hel
 которые игнорируются и соответствующих им шаблонов используйте команду git ignored
 : $ git ignored config.h ./config.h configure.in~ *~ $
 
-# Выводы
+# Вывод
 
 После проделанной данной работы я изучил идеологию и применение средств контроля версий.
 Освоил умения по работе с git.
